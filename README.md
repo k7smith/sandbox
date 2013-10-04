@@ -1,4 +1,4 @@
 sandbox
 =======
 
-Sandbox to play in for testing purposes
+This sandbox is used for playing with.
